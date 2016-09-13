@@ -1,0 +1,3 @@
+F:\图像质量排序\图像质量排序\bin\Debug\UI.exe.config
+F:\图像质量排序\图像质量排序\obj\Debug\UI.exe
+F:\图像质量排序\图像质量排序\obj\Debug\UI.pdb
