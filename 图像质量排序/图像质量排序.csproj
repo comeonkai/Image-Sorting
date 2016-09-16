@@ -183,6 +183,42 @@
   <ItemGroup>
     <None Include="Resources\addFolder_hight.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\图片比较.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\图片比较_高亮.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\图片评分.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\图片评分_高亮.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\图片清理.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\图片清理_高亮.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\压缩图片.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\压缩图片_高亮.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\用户设置.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\用户设置_高亮.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\优化图片.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\优化图片_高亮.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

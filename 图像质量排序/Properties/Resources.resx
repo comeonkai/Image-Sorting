@@ -151,8 +151,14 @@
   <data name="btn3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\btn3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="addFolder_hight1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\addFolder_hight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="addFolder" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\addFolder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="button6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\button1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -181,6 +187,9 @@
   <data name="btn6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\btn6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="addFolder_hight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\addFolder_hight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="close" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\close.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -193,9 +202,6 @@
   <data name="search" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\search.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="button6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\button6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="button4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\button4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -205,10 +211,40 @@
   <data name="ImageSort" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ImageSort.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="addFolder_hight" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\addFolder_hight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="图片比较" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\图片比较.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="addFolder_hight1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\addFolder_hight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="图片比较_高亮" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\图片比较_高亮.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="图片评分" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\图片评分.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="图片评分_高亮" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\图片评分_高亮.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="图片清理" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\图片清理.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="图片清理_高亮" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\图片清理_高亮.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="压缩图片" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\压缩图片.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="压缩图片_高亮" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\压缩图片_高亮.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="用户设置" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\用户设置.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="用户设置_高亮" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\用户设置_高亮.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="优化图片" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\优化图片.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="优化图片_高亮" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\优化图片_高亮.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
